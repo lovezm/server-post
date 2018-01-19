@@ -5,8 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=0.88, maximum-scale=1, user-scalable=no">
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
 	<meta charset="UTF-8">
-	<meta name="keywords" content="LMHL,哔哩哔哩,挂机,直播,经验,签到,B站,bilibili">
-	<meta name="description" content="B站直播挂机小玩意，每天轻松80W经验，顺手再签个小道领个经验...多用户版测试ing，cookie不保证有效期，cookie失效后即无法挂机">
+	<meta name="keywords" content="bilibili提交系统">
+	<meta name="description" content="bilibili提交系统">
 	<!-- Bootstrap -->
 	<link rel="shortcut icon" href="//static.hdslb.com/images/favicon.ico">
 	<link rel="stylesheet" href="//cdn.bootcss.com/bootstrap/3.3.0/css/bootstrap.min.css">
@@ -23,19 +23,19 @@ input{margin-top: 3px;}
             <div class="col-md-6 col-md-offset-3 panel panel-default">
 			<h2 class="text-center">bilibili提交系统</h2>
 			<div class="bs-callout bs-callout-info">
-						<h4 class="help-block text-left">本系统提供给购买的用户自助提交B站账号密码和更新账号密码<br>数据直接发送到店主的微信上，不会泄露放心食用<br><a href="https://link.bilibili.com/p/eden/news#/newsdetail?id=458" target="_blank">关于哔哩哔哩直播经验值获取途径改版公告</a></h4>
+						<h4 class="help-block text-left">公告。</h4>
 				</div>
 				<form action="" method="post">
-<span class="label label-info">淘宝ID: </span><input type="text" name="text" placeholder="下单用户淘宝ID" class="form-control">
-<span class="label label-info">账  号: </span><input type="text" name="user" placeholder="B站账号" class="form-control">
-<span class="label label-info">密  码:</span><input type="text" name="pass" placeholder="B站密码" class="form-control">
+<span class="label label-info">ID: </span><input type="text" name="text" placeholder="ID" class="form-control">
+<span class="label label-info">账  号: </span><input type="text" name="user" placeholder="账号" class="form-control">
+<span class="label label-info">密  码:</span><input type="text" name="pass" placeholder="密码" class="form-control">
 
 
 <br>
 
 <input type="submit" value="提交" class="btn btn-sm btn-success">
                   <br>
-                  目前可以抢小电视、自动签到、应援团签到、自动兑换硬币、自动赠送即将过期礼物
+                  秒速
 </form>
 	<?php
 
